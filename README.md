@@ -5,7 +5,7 @@ Creating a README file is essential for providing information about the `Degentk
 
 ---
 
-# Degentkn Token Contract
+# TORQUE Token Contract
 
 This Solidity smart contract implements the `Degentkn` ERC20 token with additional functionalities for minting, burning, transferring, checking balances, and redeeming tokens.
 
